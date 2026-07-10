@@ -24,7 +24,7 @@
     "erc721",
     "healthcare"
   ],
-  "author": "Hoda Naseri, Seyed Mohammad Mirhosseini, Ali A. Safaei",
+  "author": "Hoda Naseri",
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.3",
