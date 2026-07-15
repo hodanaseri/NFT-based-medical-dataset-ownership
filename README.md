@@ -116,4 +116,4 @@ The implementation is provided to enable **transparency and reproducibility**.
 
 ## License
 
-This project is licensed under the MIT License – see the [[LICENSE](https://github.com/hodanaseri/NFT-based-medical-dataset-ownership/blob/main/LICENSE)]([LICENSE](https://github.com/hodanaseri/NFT-based-medical-dataset-ownership/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/hodanaseri/NFT-based-medical-dataset-ownership/blob/main/LICENSE) file for details.
