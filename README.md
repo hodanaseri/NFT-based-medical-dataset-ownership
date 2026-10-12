@@ -20,7 +20,18 @@ The framework is designed to address key challenges in medical data sharing envi
 This implementation accompanies the research study proposing an integrated blockchain architecture for medical data governance. It is intended for academic validation and reproducibility purposes.
 
 ---
+## Research Publication
 
+This repository accompanies the following research article:
+
+**A Blockchain-Based Non-Fungible Tokens Framework for Ownership and Intellectual Property Preservation with Controlled Access to Medical Datasets**
+
+- **Journal:** Scientific Reports (2026)
+- **DOI:** [10.1038/s41598-026-67808-z](https://doi.org/10.1038/s41598-026-67808-z)
+
+If you use this implementation in your research, please cite the associated publication.
+
+---
 ## Dataset
 
 The framework was evaluated using the **OpenNeuro DS007328** dataset, a dense longitudinal single-subject multimodal neuroimaging dataset.
